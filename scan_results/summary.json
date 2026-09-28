@@ -1,0 +1,17 @@
+{
+ "lerobot/pusht": {
+  "episodes": 206,
+  "flagged": 0,
+  "rate": 0.0
+ },
+ "lerobot/aloha_sim_insertion_human": {
+  "episodes": 45,
+  "flagged": 0,
+  "rate": 0.0
+ },
+ "lerobot/aloha_static_coffee": {
+  "episodes": 50,
+  "flagged": 5,
+  "rate": 0.1
+ }
+}
