@@ -1,0 +1,11 @@
+data/
+trial_outputs/
+trial2_outputs/
+trial2_eval500/
+trial3_outputs/
+clean_check/
+scan_results/
+*.log
+*log.txt
+__pycache__/
+*.pyc
